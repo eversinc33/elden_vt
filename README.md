@@ -1,4 +1,4 @@
-# 📜 _Email Sent_ - Elden Ring Extension
+# 📜 Virus Total - Elden Ring Extension
 An Elden Ring–inspired Chrome extension for virus total.
 
 All credit to https://github.com/MettiFire/elden_mail_banner <3
